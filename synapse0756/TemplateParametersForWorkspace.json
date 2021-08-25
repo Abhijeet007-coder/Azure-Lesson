@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "synapse0756"
+		},
+		"synapse0756-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"synapse0756-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://acc0756.dfs.core.windows.net"
+		}
+	}
+}
